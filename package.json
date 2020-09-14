@@ -1,0 +1,9 @@
+{
+  "name": "app-notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:3PSY0N/app-notes.git",
+  "author": "3PSY0N <3511559-3PSY0N@users.noreply.gitlab.com>",
+  "license": "MIT",
+  "private": true
+}

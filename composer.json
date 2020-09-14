@@ -1,0 +1,13 @@
+{
+    "name": "3psy0n/app-notes",
+    "description": "Simple Notes App",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "3PSY0N",
+            "email": "3511559-3PSY0N@users.noreply.gitlab.com"
+        }
+    ],
+    "require": {}
+}
