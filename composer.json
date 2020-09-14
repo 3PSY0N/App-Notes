@@ -9,5 +9,10 @@
             "email": "3511559-3PSY0N@users.noreply.gitlab.com"
         }
     ],
+	"autoload": {
+		"psr-4": {
+		  "App\\": "src/"
+		}
+	},
     "require": {}
 }
